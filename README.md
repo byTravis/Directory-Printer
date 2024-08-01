@@ -6,7 +6,7 @@
 ## Overview
 This is a simple directory printer that makes it easy to list files within a folder so you can copy/paste into an email or document.  You can also save the list as a text file.  Included are a few options such as listing only specific filetypes, include the folder path, and whether or not to include folders in your list.  
 
-![Directory Printer - Screenshot](images/screengrab.JPG)
+![Directory Printer - Screenshot](images/screenshot.JPG)
 
 ## How To Use
 
