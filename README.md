@@ -4,7 +4,7 @@
 ![Directory Printer](images/project_banner.jpg)
 
 ## Overview
-This is a simple directory printer that makes it easy to list files within a folder so you can copy/paste into an email or document.  You can also save the list as a text file.  It includes a few options such as listing only specific filetype, include the directory path, and whether or not to include folders in your list.  
+This is a simple directory printer that makes it easy to list files within a folder so you can copy/paste into an email or document.  You can also save the list as a text file.  Included are a few options such as listing only specific filetypes, include the folder path, and whether or not to include folders in your list.  
 
 ![Directory Printer - Screenshot](images/screengrab.JPG)
 
@@ -16,7 +16,7 @@ This is a simple directory printer that makes it easy to list files within a fol
 
 **Save txt File** - This will save your file list to a txt file.  When you click, it will ask you where to save your file.  Give it a name and click Save.
 
-### Options
+#### Options
 
 **All File Types** - You can specify which files you are interested in by listing the extension.  You can list multiple file extensions by separating them with a comma or a space.  Click the Refresh button to update your list that includes only the files you are interested in.  To remove the filter, simply delete the extensions from this section.
 
