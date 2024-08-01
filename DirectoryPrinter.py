@@ -181,7 +181,7 @@ include_directories = ctk.CTkCheckBox(options_container, text="Include folders?"
 include_directories.grid(column=0, row=10, padx=(15,5), pady=(0,15), sticky=W)
 
 file_types = ctk.CTkEntry(options_container, placeholder_text="All Files Types")
-file_types.grid (column=0, row=2, padx=(15,5), pady=(0,15), sticky=W)
+file_types.grid (column=0, row=2, padx=0, pady=(0,15))
 
 
 
